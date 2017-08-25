@@ -122,7 +122,7 @@
     </platform>
     
     <allow-navigation href="*" />
-    <allow-navigation href="http://www.pointonesolutions.com.ph" />
+    <allow-navigation href="http://www.pointone.com.ph" />
     <allow-intent href="*" />
     <access origin="*" /> 
     <allow-intent href="http://*/*" />
